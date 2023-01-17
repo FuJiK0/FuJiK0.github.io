@@ -1,0 +1,1 @@
+# FuJiK0.github.io
