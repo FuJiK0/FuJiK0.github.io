@@ -1,1 +1,1 @@
-{}
+{"labelColorDict": {"bug": "#d73a4a", "ComfyUI": "#D4B70A", "documentation": "#0075ca", "duplicate": "#cfd3d7", "enhancement": "#a2eeef", "good first issue": "#7057ff", "help wanted": "#008672", "invalid": "#e4e669", "LLM": "#C4F1C5", "Python": "#28697E", "question": "#d876e3", "StableDiffusion": "#F32CD6", "wontfix": "#ffffff"}}
